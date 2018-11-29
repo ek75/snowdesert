@@ -1,6 +1,6 @@
-# Jungle Heat закрытая зона_01 <=КИПЕШНЫЕ=>
+# Jungle Heat закрытая зона_01
 <body style="color:Yellow; background-color:#66cc66">
-  <H2><b>Вы находтесь в закрытой зоне клана <=КИПЕШНЫЕ=>.
+  <H2><b>Вы находтесь в закрытой зоне.
   Доступ на эту страницу разрешён только участникам. Отправьте в чат клана команду "W1" для авторизации.</b></H2>
 <img src="https://github.com/ek75/snowdesert/blob/master/Screenshot_1.png">
   <H3>Это жесть!</H3>
