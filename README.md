@@ -1,7 +1,6 @@
-# Jungle Heat закрытая зона_01
+# Jungle Heat
 <body style="color:Yellow; background-color:#66cc66">
-  <H2><b>Вы находтесь в закрытой зоне.
-  Доступ на эту страницу разрешён только участникам. Отправьте в чат команду "W1" для авторизации.</b></H2>
+  <H2><b>Welcome to our web site!</b></H2>
 <img src="https://github.com/ek75/snowdesert/blob/master/Screenshot_1.png">
 <img src="https://bitbucket.org/Egor75/webmaster/downloads/Screenshot_2018-11-19-20-05-53.png">
     <H2>Участники:</H2>
