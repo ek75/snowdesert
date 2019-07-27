@@ -1,6 +1,6 @@
 # Jungle Heat
 <body style="color:Yellow; background-color:#66cc66">
-  <H2><b>👏 👆 ❗</b></H2>
+  <H2><b>👏 👆 </b></H2>
 <img src="https://github.com/ek75/snowdesert/blob/master/Screenshot_1.png">
 <img src="https://bitbucket.org/Egor75/webmaster/downloads/Screenshot_2018-11-19-20-05-53.png">
     <H2>Участники:</H2>
